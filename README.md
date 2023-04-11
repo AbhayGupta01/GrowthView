@@ -1,9 +1,10 @@
 # Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
-React Admin Dashboard App
+
+#React Admin Dashboard App
 This project is a React-based admin dashboard application that provides detailed analysis of employees and customers for businesses. The app comes with multiple features such as theming, tables, charts, calendar, Kanban and much more.
 
-Features
+#Features
 The app comes with the following features:
 
 Theming: The app has a fully customizable theme that can be changed to match the business's branding.
@@ -14,7 +15,7 @@ Kanban: The app also comes with a Kanban board that can be used to track the pro
 Installation
 To install the app, follow these steps:
 
-Clone the repository
+#Clone the repository
 Run npm install to install the dependencies
 Run npm start to start the app
 Usage
@@ -31,7 +32,7 @@ Fork the repository
 Create a new branch
 Make your changes
 Submit a pull request
-Credits
+#Credits
 The app was built using React, Material-UI, and various other libraries.
 
 
